@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "tarefa-Econobuy_desktop",
+      "appliesTo": "Econobuy_desktop.sln",
+      "type": "launch"
+    }
+  ]
+}
